@@ -7,6 +7,9 @@ struct tickets
     int ticket;
     int price;
 };
+void signin();
+void signup();
+void menu();
 int main() 
 {
     int sign,s;
